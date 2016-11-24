@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;NPU_CS522_16246_Automation&apos;" deleteContents="true" description="Delete resource &apos;NPU_CS522_16246_Automation&apos;" element1="/NPU_CS522_16246_Automation" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1479608914481"/>
+</session>
